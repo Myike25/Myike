@@ -12,4 +12,4 @@ Graduando em Análise e Desenvolvimento de Sistemas (ADS).
 - **App de Gestão de Frota e Despesas:** Projeto mobile desenvolvido em React Native e Expo.
 - **Projetos de Algoritmos e Banco de Dados:** Manipulação de dados e consultas com Python, Pandas, C e SQLite.
 
-**Contato:** myike25@gmail.com | [LinkedIn](https://www.linkedin.com/in/myike-miguel-9b3638224)
+**Contato:** myike25@gmail.com | [LinkedIn]([https://www.linkedin.com/in/myike-miguel-9b3638224](https://www.linkedin.com/in/myike-gon%C3%A7alves-miguel-9b3638224/))
